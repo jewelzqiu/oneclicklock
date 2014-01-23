@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lock</string>
+    <string name="sample_device_admin">Locker</string>
+    <string name="sample_device_admin_description">click to lock screen</string>
+
+</resources>
